@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yuqi "Nimo" AN
+title: Yuqi AN
 email:
   url: mailto:yuqan2-c@my.cityu.edu.hk
   text: yuqan2-c@my.cityu.edu.hk
@@ -29,6 +29,7 @@ Hong Kong SAR, China
 *MSc in Science in Materials Engineering and Nanotechnology*
 - Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Advanced Structural Materials, 	Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
+- Served as the HPC Administrator, overseeing the assembly and hardware maintenance of the group's High-Performance Computing infrastructure.
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
 
@@ -68,12 +69,12 @@ Wuhan, China
 
 ## Honors & Awards
 
-First Prize in FLTRP CUPEnglish Writing Contest `GXU, 2016` <br>
+First Prize in FLTRP CUP English Writing Contest `GXU, 2016` <br>
 Excellent Scholarship of Guangxi University(Awardedto Top 3% students) `GXU, 2016` <br>
 Excellent Scholarship of Guangxi University(Awardedto Top 3% students) `GXU, 2015` <br>
 Excellent Students of Guangxi University(Awardedto Top 3% students) `GXU, 2016` <br>
 Excellent Student Cadre of Guangxi University(Awardedto Top 5% cadres) `GXU, 2016` <br>
-OutstandingTeacher of Voluntary Tutor (Awardedto Top 10% participants) `GXU, 2016` <br>
+Outstanding Teacher of Voluntary Tutor (Awardedto Top 10% participants) `GXU, 2016` <br>
 
 ## Skills & Interests
 
