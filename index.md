@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Education
 
-### **City University of HongKong** `2023.9 -`
+### **City University of Hongkong** `2023.9 -`
 
 ```
 HongKong SAR, China
@@ -28,23 +28,14 @@ HongKong SAR, China
 
 - MSc in Science in Materials Engineering and Nanotechnology
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
-### **Columbia University** `2016.9 - 2018.5`
+### **Guangxi University** `2015.9 - 2019.6`
 
 ```
-New York, NY
+Nanning, China
 ```
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- B.S. in Inorganic Non-metallic Materials Engineering
 
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
