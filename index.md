@@ -29,14 +29,15 @@ HongKong SAR, China
 - MSc in Science in Materials Engineering and Nanotechnology
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
-### **Guangxi University** `2015.9 - 2019.6`
+### **Guangxi University（211 Project）** `2015.9 - 2019.6`
 
 ```
 Nanning, China
 ```
 
-- B.S. in Inorganic Non-metallic Materials Engineering
-
+B.S. in Inorganic Non-metallic Materials Engineering
+- Cumulative GPA: 3.0/5.0(Top 15%)
+- Relevant Coursework: Fundamental of Materials Science, High Molecular Material Survey&Basics of ThermalEngineering, Analytical Chemistry
 ## Experience
 
 ### **TCL Wuhan China Star Optoelectronics Semiconductor Display Technology Co. Ltd** `2019.9 - 2022.6`
