@@ -45,7 +45,11 @@ Wuhan, China
 ```
 
 - Optical Inspection Engineer in Electroluminescence
-- Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
+- Completed OLED Display manufacturing process training and passed three project-specific oral defenses
+- Developed an automated panel screening system that enhanced operator efficiency
+- Optimized the procedure for handling abnormalities in optical inspection machine operations
+- Refined calibration criteria for optical inspection machines to enhance Standard Operating Procedures (SOPs)
+- Collaborated with cross-functional teams to successfully launch multiple advanced OLED products
 
 ## Publications
 
