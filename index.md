@@ -29,7 +29,7 @@ Hong Kong SAR, China
 *MSc in Science in Materials Engineering and Nanotechnology*
 - Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Advanced Structural Materials, 	Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
-- Served as the HPC Administrator, overseeing the assembly and hardware maintenance of the group's High-Performance Computing infrastructure.
+- Served as the HPC Administrator, managing the assembly and hardware maintenance of the group's High-Performance Computing infrastructure.
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
 
