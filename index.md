@@ -6,7 +6,7 @@ email:
   text: yuqan2-c@my.cityu.edu.hk
 ---
 
-# Wode **Ni**
+# Yuqi **AN**
 
 <!--
 include contact information from the front matter
@@ -20,16 +20,14 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **City University of HongKong** `2023.9 -`
 
 ```
-Pittsburgh, PA
+HongKong SAR, China
 ```
 
-- Ph.D. in Software Engineering
-- MS in 2021
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
+- MSc in Science in Materials Engineering and Nanotechnology
+- Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 ### **Columbia University** `2016.9 - 2018.5`
 
 ```
