@@ -66,9 +66,9 @@ Wuhan, China
 ## Honors & Awards
 
 First Prize in FLTRP CUP English Writing Contest `GXU, 2016` <br>
-Excellent Scholarship of Guangxi University (Awardedto Top 3% students) `GXU, 2015,2016` <br>
-Excellent Students of Guangxi University (Awardedto Top 3% students) `GXU, 2016` <br>
-Outstanding Teacher of Voluntary Tutor (Awardedto Top 10% participants) `GXU, 2016` <br>
+Excellent Scholarship of Guangxi University (Awarded to Top 3% students) `GXU, 2015,2016` <br>
+Excellent Students of Guangxi University (Awarded to Top 3% students) `GXU, 2016` <br>
+Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2016` <br>
 
 ## Skills & Interests
 
