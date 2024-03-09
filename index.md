@@ -36,6 +36,16 @@ Nanning, China
 
 - B.S. in Inorganic Non-metallic Materials Engineering
 
+## Experience
+
+### **TCL Wuhan China Star Optoelectronics Semiconductor Display Technology Co. Ltd** `2019.9 - 2022.6`
+
+```
+Wuhan, China
+```
+
+- Optical Inspection Engineer in Electroluminescence
+- Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
 ## Publications
 
