@@ -51,7 +51,6 @@ Wuhan, China
 
 *Optical Inspection Engineer in Electroluminescence*
 - Developed an automated panel screening system that enhanced operator efficiency
-- Optimized the procedure for handling abnormalities in optical inspection machine operations
 - Collaborated with cross-functional teams to successfully launch multiple advanced OLED products
 
 
@@ -63,7 +62,6 @@ Wuhan, China
 
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
 - Study on Effect of Gypsum Morphology on Cement Strength By ICC
-
 
 ## Honors & Awards
 
