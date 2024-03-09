@@ -45,7 +45,7 @@ Nanning, China
 Wuhan, China
 ```
 
-- Optical Inspection Engineer in Electroluminescence
+*Optical Inspection Engineer in Electroluminescence*
 - Completed OLED Display manufacturing process training and passed three project-specific oral defenses
 - Developed an automated panel screening system that enhanced operator efficiency
 - Optimized the procedure for handling abnormalities in optical inspection machine operations
