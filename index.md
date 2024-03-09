@@ -26,7 +26,8 @@ Supported arguments:
 HongKong SAR, China
 ```
 
-- MSc in Science in Materials Engineering and Nanotechnology
+*MSc in Science in Materials Engineering and Nanotechnology*
+- Relevant Coursework: Computational Methods for Materials Science, Structure and Deformation of Materials, Advanced Structural Materials, 	Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
@@ -35,9 +36,10 @@ HongKong SAR, China
 Nanning, China
 ```
 
-B.S. in Inorganic Non-metallic Materials Engineering
+*B.S. in Inorganic Non-metallic Materials Engineering*
 - Cumulative GPA: 3.0/5.0(Top 15%)
-- Relevant Coursework: Fundamental of Materials Science, High Molecular Material Survey&Basics of ThermalEngineering, Analytical Chemistry
+- Relevant Coursework: Fundamental of Materials Science, Physical Chemistry, Analytical Chemistry
+
 ## Experience
 
 ### **TCL Wuhan China Star Optoelectronics Semiconductor Display Technology Co. Ltd** `2019.9 - 2022.6`
