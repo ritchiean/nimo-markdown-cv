@@ -20,14 +20,14 @@ Supported arguments:
 
 ## Education
 
-### **City University of Hongkong** `2023.9 -`
+### **City University of Hong Kong** `2023.9 -`
 
 ```
-HongKong SAR, China
+Hong Kong SAR, China
 ```
 
 *MSc in Science in Materials Engineering and Nanotechnology*
-- Relevant Coursework: Computational Methods for Materials Science, Structure and Deformation of Materials, Advanced Structural Materials, 	Instrumentation for Materials Characterization
+- Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Advanced Structural Materials, 	Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
@@ -38,7 +38,7 @@ Nanning, China
 
 *B.S. in Inorganic Non-metallic Materials Engineering*
 - Cumulative GPA: 3.0/5.0(Top 15%)
-- Relevant Coursework: Fundamental of Materials Science, Physical Chemistry, Analytical Chemistry
+- Relevant Course: Fundamental of Materials Science, Physical Chemistry, Analytical Chemistry
 
 ## Experience
 
@@ -79,7 +79,9 @@ OutstandingTeacher of Voluntary Tutor (Awardedto Top 10% participants) `GXU, 201
 
 **Language:** Mandarin (Native), English (Fluent)
 
-**IT Skills:** Microsoft Office, C Programming Language, Ubuntu, Jade, Adobe Photoshop, InDesign
+**IT Skills:** Microsoft Office (Advanced), C Programming Language (Intermediate), Python (Basic Knowledge), Linux (Proficient), Adobe Photoshop (Intermediate)
+
+**MSE Skills:** LAMMPS (Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate)
 
 **Interests:** Jogging, Computer Installation, Reading
 
