@@ -50,10 +50,8 @@ Wuhan, China
 ```
 
 *Optical Inspection Engineer in Electroluminescence*
-- Completed OLED Display manufacturing process training and passed three project-specific oral defenses
 - Developed an automated panel screening system that enhanced operator efficiency
 - Optimized the procedure for handling abnormalities in optical inspection machine operations
-- Refined calibration criteria for optical inspection machines to enhance Standard Operating Procedures (SOPs)
 - Collaborated with cross-functional teams to successfully launch multiple advanced OLED products
 
 
@@ -70,10 +68,8 @@ Wuhan, China
 ## Honors & Awards
 
 First Prize in FLTRP CUP English Writing Contest `GXU, 2016` <br>
-Excellent Scholarship of Guangxi University (Awardedto Top 3% students) `GXU, 2016` <br>
-Excellent Scholarship of Guangxi University (Awardedto Top 3% students) `GXU, 2015` <br>
+Excellent Scholarship of Guangxi University (Awardedto Top 3% students) `GXU, 2015-2016` <br>
 Excellent Students of Guangxi University (Awardedto Top 3% students) `GXU, 2016` <br>
-Excellent Student Cadre of Guangxi University (Awardedto Top 5% cadres) `GXU, 2016` <br>
 Outstanding Teacher of Voluntary Tutor (Awardedto Top 10% participants) `GXU, 2016` <br>
 
 ## Skills & Interests
