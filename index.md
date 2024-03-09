@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Yuqi "Nimo" AN
 email:
-  url: mailto:nimo@cmu.edu
-  text: nimo@cmu.edu
+  url: mailto:yuqan2-c@my.cityu.edu.hk
+  text: yuqan2-c@my.cityu.edu.hk
 ---
 
 # Wode **Ni**
