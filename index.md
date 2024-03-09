@@ -28,6 +28,7 @@ HongKong SAR, China
 
 - MSc in Science in Materials Engineering and Nanotechnology
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
+
 ### **Guangxi University** `2015.9 - 2019.6`
 
 ```
