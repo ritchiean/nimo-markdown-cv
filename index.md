@@ -4,9 +4,6 @@ title: Wode "Nimo" Ni
 email:
   url: mailto:nimo@cmu.edu
   text: nimo@cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
 ---
 
 # Wode **Ni**
