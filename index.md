@@ -63,7 +63,7 @@ Wuhan, China
 - Developed and trained advanced machine learning models to create high-fidelity surrogate models for predicting crystal structures.
 - Leveraged machine learning potentials in conjunction with genetic algorithms to innovate and predict novel LED materials.
 - Discovered three novel stable quaternary compounds, enhancing the material database for future research and applications.
-- Pioneered a novel global search method for materials discovery, achieving speeds hundreds of times faster than DFT calculations while maintaining high accuracy.
+- Invented a novel global search method for materials discovery, achieving speeds hundreds of times faster than DFT calculations while maintaining high accuracy.
 
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
 - Study on Effect of Gypsum Morphology on Cement Strength By ICC
@@ -75,13 +75,15 @@ Excellent Scholarship of Guangxi University (Awarded to Top 3% students) `GXU, 2
 Excellent Students of Guangxi University (Awarded to Top 3% students) `GXU, 2016` <br>
 Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2016` <br>
 
-## Skills 
+## Skills & Interests
+
+**Language:** Mandarin (Native), English (Fluent)
 
 **IT Skills:** HPC Management(Advanced), C Programming Language(Intermediate), Python(Basic), Linux(Proficient), MongoDB(Proficient) 
 
 **MSE Skills:** Machine Learning(Intermediate), LAMMPS(Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate) 
 
-
+**Interests:** Jogging, Computer Installation, Reading
 
 
 <!-- ### Footer
