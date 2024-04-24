@@ -20,14 +20,14 @@ Supported arguments:
 
 ## Education
 
-### **City University of Hong Kong** `2023.9 - 2024.6`
+### **City University of Hong Kong** `2023.9 - present`
 
 ```
 Hong Kong SAR, China
 ```
 
 *MSc in Science in Materials Engineering and Nanotechnology*
-- Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Advanced Structural Materials, 	Instrumentation for Materials Characterization
+- Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Quantum Theory of Semiconductors, Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 - Served as the HPC Administrator, managing the assembly and hardware maintenance of the group's High-Performance Computing infrastructure.
 
@@ -56,9 +56,10 @@ Wuhan, China
 
 ## Research 
 
-### **Machine Learning Potentials Assisted CSP for Materials Discovery** `2023.9 -`
-- Train moment tensor potentials (MTP) to generate surrogate models for quaternary compounds.
-- Use genetic algorithms to predict the structure of new materials.
+### **Machine Learning Potentials Assisted CSP for Materials Discovery** `2023.9 -2024.4`
+- Train Machine Learning potential to generate surrogate models for crystal structure.
+- Use Machine Learning potential with genetic algorithms to predict the new led materials.
+- Find three new stable quaternary compounds.
 
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
 - Study on Effect of Gypsum Morphology on Cement Strength By ICC
@@ -74,7 +75,7 @@ Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2
 
 **Language:** Mandarin (Native), English (Fluent)
 
-**IT Skills:** Microsoft Office (Advanced), C Programming Language (Intermediate), Python (Basic Knowledge), Linux (Proficient), Adobe Photoshop (Intermediate)
+**IT Skills:** Microsoft Office (Advanced), C Programming Language (Intermediate), Python (Basic), Linux (Proficient), MongoDB (Proficient)
 
 **MSE Skills:** LAMMPS (Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate)
 
@@ -83,4 +84,4 @@ Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
