@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Education
 
-### **City University of Hong Kong** `2023.9 - present`
+### **City University of Hong Kong** `2023.9 - Present`
 
 ```
 Hong Kong SAR, China
@@ -73,11 +73,11 @@ Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2
 
 ## Skills & Interests
 
-**Language:** Mandarin (Native), English (Fluent)
+**Language:** Mandarin(Native), English(Fluent)
 
-**IT Skills:** Microsoft Office (Advanced), C Programming Language (Intermediate), Python (Basic), Linux (Proficient), MongoDB (Proficient)
+**IT Skills:** Microsoft Office(Advanced), C Programming Language(Intermediate), Python(Basic), Linux(Proficient), MongoDB(Proficient)
 
-**MSE Skills:** LAMMPS (Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate)
+**MSE Skills:** LAMMPS(Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate)
 
 **Interests:** Jogging, Computer Installation, Reading
 
