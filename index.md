@@ -29,7 +29,6 @@ Hong Kong SAR, China
 *MSc in Science in Materials Engineering and Nanotechnology*
 - Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Quantum Theory of Semiconductors, Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
-- Served as the HPC Administrator, managing the assembly and hardware maintenance of the group's High-Performance Computing infrastructure.
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
 
@@ -58,7 +57,7 @@ Wuhan, China
 
 ### **Machine Learning Potentials Assisted CSP for Materials Discovery** `2023.9 -2024.4`
 - Train Machine Learning potential to generate surrogate models for crystal structure.
-- Use Machine Learning potential with genetic algorithms to predict the new led materials.
+- Use Machine Learning potential with genetic algorithms to predict new LED materials.
 - Find three new stable quaternary compounds.
 
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
@@ -75,9 +74,9 @@ Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2
 
 **Language:** Mandarin(Native), English(Fluent)
 
-**IT Skills:** Microsoft Office(Advanced), C Programming Language(Intermediate), Python(Basic), Linux(Proficient), MongoDB(Proficient)
+**IT Skills:** HPC Management(Advanced), C Programming Language(Intermediate), Python(Basic), Linux(Proficient), MongoDB(Proficient) 
 
-**MSE Skills:** LAMMPS(Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate)
+**MSE Skills:** Machine Learning(Intermediate), LAMMPS(Intermediate), VASP(Intermediate), USPEX(Proficient), Packmol(Intermediate) 
 
 **Interests:** Jogging, Computer Installation, Reading
 
