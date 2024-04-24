@@ -50,8 +50,8 @@ Wuhan, China
 ```
 
 *Optical Inspection Engineer in Electroluminescence*
-- Completed OLED Display manufacturing processcourse and passed three oral defenses
-- Regulatedthe abnormal handling operation procedureof optical inspection machine
+- Completed OLED Display manufacturing process course and passed three oral defenses
+- Regulated the abnormal handling operation procedure of optical inspection machine
 - Developed an automated panel screening system that enhanced operator efficiency
 - Customized the calibration criterionof optical inspection machine and perfected the SOP
 - Collaborated with cross-functional teams to successfully launch multiple advanced OLED products
