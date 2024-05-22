@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Education
 
-### **City University of Hong Kong** `2023.9 - Present`
+### **City University of Hong Kong** `2023.9 - 2024.6`
 
 ```
 Hong Kong SAR, China
