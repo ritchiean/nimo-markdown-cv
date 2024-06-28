@@ -69,7 +69,7 @@ Wuhan, China
 - Study on Effect of Gypsum Morphology on Cement Strength By ICC
 
 ## Honors & Awards
-
+Distinction in Master of Materials Engineering and Nanotechnology `CityU, 2024` <br>
 First Prize in FLTRP CUP English Writing Contest `GXU, 2016` <br>
 Excellent Scholarship of Guangxi University (Awarded to Top 3% students) `GXU, 2015,2016` <br>
 Excellent Students of Guangxi University (Awarded to Top 3% students) `GXU, 2016` <br>
