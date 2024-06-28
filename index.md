@@ -61,8 +61,8 @@ Wuhan, China
 
 ### **Machine Learning Potentials Assisted CSP for Materials Discovery** `2023.9 -2024.4`
 - Developed and trained advanced machine learning models to create high-fidelity surrogate models for predicting crystal structures.
-- Leveraged machine learning potentials in conjunction with genetic algorithms to innovate and predict novel LED materials.
-- Discovered three novel stable quaternary compounds, enhancing the material database for future research and applications.
+- Leveraged machine learning potentials in conjunction with genetic algorithms to predict novel LED materials.
+- Discovered a series of novel metastable quaternary compounds, enhancing the material database for future research and applications.
 - Invented a novel global search method for materials discovery, achieving speeds hundreds of times faster than DFT calculations while maintaining high accuracy.
 
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
