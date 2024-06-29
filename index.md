@@ -68,7 +68,7 @@ Wuhan, China
 
 ## Honors & Awards
 Distinction in Master of Materials Engineering and Nanotechnology (Awarded to Top 10% students) `CityU, 2024` <br>
-First Prize in FLTRP CUP English Writing Contest `GXU, 2016` <br>
+First Prize in FLTRP CUP English Writing Contest (Awarded to Top 5% students) `GXU, 2016` <br>
 Excellent Scholarship of Guangxi University (Awarded to Top 3% students) `GXU, 2015,2016` <br>
 Excellent Students of Guangxi University (Awarded to Top 3% students) `GXU, 2016` <br>
 Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2016` <br>
