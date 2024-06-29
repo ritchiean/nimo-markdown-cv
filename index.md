@@ -39,7 +39,7 @@ Nanning, China
 
 *B.S. in Inorganic Non-metallic Materials Engineering*
 - Cumulative GPA: 3.05/5.0 (Top 15%)
-- Relevant Course: Fundamental of Materials Science, Physical Chemistry, Analytical Chemistry
+- Relevant Courses: Fundamental of Materials Science, Physical Chemistry, Analytical Chemistry
 
 ## Experience
 
