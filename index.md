@@ -63,6 +63,7 @@ Wuhan, China
 - Developed ML models with high accuracy for crystal structure prediction
 - Universal machine learning potentials assisted crystal structure prediction using genetic algorithms
 - Density functional theory calculations and phase stability analysis for new materials
+
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
 - Study on Effect of Gypsum Morphology on Cement Strength By ICC
 
