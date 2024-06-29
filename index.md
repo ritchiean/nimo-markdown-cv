@@ -53,7 +53,7 @@ Wuhan, China
 - Completed OLED Display manufacturing process course and passed three oral defenses
 - Regulated the abnormal handling operation procedure of optical inspection machine
 - Developed an automated panel screening system that enhanced operator efficiency
-- Customized the calibration criterionof optical inspection machine and perfected the SOP
+- Customized the calibration criterion of optical inspection machine and perfected the SOP
 - Collaborated with cross-functional teams to successfully launch multiple advanced OLED products
 
 
