@@ -27,8 +27,8 @@ Hong Kong SAR, China
 ```
 
 *MSc in Science in Materials Engineering and Nanotechnology*
-- Cumulative GPA: 3.85/4.3
-- Relevant Course: Computational Methods for Materials Science, Structure and Deformation of Materials, Quantum Theory of Semiconductors, Instrumentation for Materials Characterization
+- Cumulative GPA: 3.85/4.3(Distinction)
+- Relevant Courses: Computational Methods for Materials Science, Structure and Deformation of Materials, Quantum Theory of Semiconductors, Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
@@ -59,12 +59,10 @@ Wuhan, China
 
 ## Research 
 
-### **Machine Learning Potentials Assisted CSP for Materials Discovery** `2023.9 -2024.6`
-- Developed and trained advanced machine learning models to create high-accuracy surrogate models for predicting crystal structures.
-- Leveraged universal machine learning potentials in conjunction with genetic algorithms to predict novel LED materials.
-- Discovered a set of novel metastable quaternary compounds, enhancing the material database for future research and applications.
-- Invented a novel global search method for materials discovery, achieving speeds hundreds of times faster than DFT calculations while maintaining high accuracy.
-
+### **Machine Learning Aided Novel Materials Discovery** `2023.9 -2024.6`
+- Developed ML models with high accuracy for crystal structure prediction
+- Universal machine learning potentials assisted crystal structure prediction using genetic algorithms
+- Density functional theory calculations and phase stability analysis for new materials
 ### **National Undergraduate Training Programs for Innovation and Entrepreneurship** `2016.9 -2017.9`
 - Study on Effect of Gypsum Morphology on Cement Strength By ICC
 
@@ -77,13 +75,13 @@ Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2
 
 ## Skills & Interests
 
-**Language:** Mandarin (Native), English (Fluent)
+**Language:** Mandarin, English
 
-**IT Skills:** HPC Management (Advanced), C Programming Language (Intermediate), Python (Basic), Linux (Proficient), MongoDB (Proficient) 
+**IT Skills:** HPC Management, C Programming Language, Python, Linux, MongoDB, Web Development
 
-**MSE Skills:** Machine Learning (Intermediate), LAMMPS (Intermediate), VASP (Intermediate), USPEX (Proficient), Packmol (Intermediate) 
+**MSE Skills:** Machine Learning, LAMMPS, VASP, USPEX, Packmol
 
-**Interests:** Jogging, Computer Installation, Reading
+**Interests:** Jogging, Building computer, Reading
 
 
 <!-- ### Footer
