@@ -27,7 +27,7 @@ Hong Kong SAR, China
 ```
 
 *MSc in Science in Materials Engineering and Nanotechnology*
-- Cumulative GPA: 3.85/4.3(Distinction)
+- Cumulative GPA: 3.85/4.3 (Distinction)
 - Relevant Courses: Computational Methods for Materials Science, Structure and Deformation of Materials, Quantum Theory of Semiconductors, Instrumentation for Materials Characterization
 - Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
@@ -38,7 +38,7 @@ Nanning, China
 ```
 
 *B.S. in Inorganic Non-metallic Materials Engineering*
-- Cumulative GPA: 3.05/5.0(Top 15%)
+- Cumulative GPA: 3.05/5.0 (Top 15%)
 - Relevant Course: Fundamental of Materials Science, Physical Chemistry, Analytical Chemistry
 
 ## Experience
