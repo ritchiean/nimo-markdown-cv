@@ -56,6 +56,16 @@ Wuhan, China
 - Customized the calibration criterion of optical inspection machine and perfected the SOP
 - Collaborated with cross-functional teams to successfully launch multiple advanced OLED products
 
+### **Green Dynamics LTD** `2024.8 - 2025.4`
+
+```
+Hong Kong, China
+```
+
+*AI Engineer in Material Science*
+- Collected and processed data related to materials science applications
+- Trained multimodal AI models for predicting material properties
+
 
 ## Research 
 
