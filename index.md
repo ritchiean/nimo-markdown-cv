@@ -20,6 +20,15 @@ Supported arguments:
 
 ## Education
 
+### **City University of Hong Kong** `2025.9 - Present`
+
+```
+Hong Kong SAR, China
+```
+
+*PhD in Materials Science and Engineering*
+- Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
+
 ### **City University of Hong Kong** `2023.9 - 2024.6`
 
 ```
@@ -29,7 +38,6 @@ Hong Kong SAR, China
 *MSc in Science in Materials Engineering and Nanotechnology*
 - Cumulative GPA: 3.85/4.3 (Distinction)
 - Relevant Courses: Computational Methods for Materials Science, Structure and Deformation of Materials, Quantum Theory of Semiconductors, Instrumentation for Materials Characterization
-- Advised by [Zhenbin WANG](https://www.cityu.edu.hk/mse/people/mse-faculty/wang-zhenbin)
 
 ### **Guangxi University（211 Project）** `2015.9 - 2019.6`
 
