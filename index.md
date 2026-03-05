@@ -96,11 +96,11 @@ Outstanding Teacher of Voluntary Tutor (Awarded to Top 10% participants) `GXU, 2
 
 **Language:** Mandarin, English
 
-**IT Skills:** HPC Management, C Programming Language, Python, Linux, MongoDB, Web Development
+**IT Skills:** HPC Management, C, Python, Linux, MongoDB, Website Development
 
-**MSE Skills:** Machine Learning, LAMMPS, VASP, USPEX, Packmol
+**MSE Skills:** Machine Learning Interatomic Potential(MLIP), LAMMPS, VASP, USPEX
 
-**Interests:** Jogging, Building computer, Reading
+**Interests:** Jogging, Computers Installation, Reading
 
 
 <!-- ### Footer
